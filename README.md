@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is git repository.
 <br>
-Author- Kapil Bhosale
+Author- Kapil Bhosale (a)
